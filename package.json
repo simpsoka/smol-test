@@ -1,0 +1,20 @@
+{
+  "name": "personal-profile-website",
+  "version": "1.0.0",
+  "description": "A personal profile website built with Next.js and Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["next.js", "react", "tailwindcss", "personal", "profile", "website"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.2"
+  }
+}
